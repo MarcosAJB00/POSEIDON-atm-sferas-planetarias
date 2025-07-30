@@ -25,3 +25,11 @@ Para cada planeta, se modelaron cinco escenarios distintos, que varían en:
 
 Se puede consultar el PDF de la tesis para más detalles sobre los modelos, los resultados y la bibliografía utilizada.
 
+## 📄 Licencia
+
+Este repositorio está bajo la licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Podés usar, modificar y compartir el contenido citando adecuadamente.
+
+---
+
+*Creado por Marcos A. J. Baracchi como parte de su tesis de licenciatura en astronomía.*
+
