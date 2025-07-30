@@ -21,7 +21,7 @@ Para cada planeta, se modelaron cinco escenarios distintos, que varían en:
 - Configuración atmosférica (isoquímica o en equilibrio termoquímico)  
 - Configuración planetaria (bloqueo por marea)
 
-## 📖  :open_book: Más información
+## :open_book: Más información
 
 Se puede consultar el PDF de la tesis para más detalles sobre los modelos, los resultados y la bibliografía utilizada.
 
